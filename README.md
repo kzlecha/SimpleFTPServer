@@ -2,14 +2,14 @@
 Simple FTP server using socket programming written in Python.
 The client can upload files to the server or pull files from the server.
 
-## To Run
+## How To Run
 In a terminal run the server.
-```
+```shell
 cd server
 python tcp_server.py
 ```
 Then in a new terminal let the client ping the server.
-```
+```shell
 cd client
 python tcp_client.py
 ```
