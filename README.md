@@ -46,9 +46,3 @@ Will retrieve a file from the server and save it in the client directory
 Command: `GET <filename>`
 
 Note that these can be combined to download and upload together.
-
-## File Structure
-### Client
-Contains the client socket and any local files to the client
-### Server
-Contains the server socket and any files on the server
